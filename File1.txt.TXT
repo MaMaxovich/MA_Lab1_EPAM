@@ -3,4 +3,7 @@ text - 1
 URA!
 Изменения для коммитаWCommit1
 Ещё изменение для DCommit2
+<<<<<<< Updated upstream
 Дтугок изменение со стороны  github.com для DCommit2
+=======
+>>>>>>> Stashed changes
