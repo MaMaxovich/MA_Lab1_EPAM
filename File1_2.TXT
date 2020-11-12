@@ -1,3 +1,4 @@
 File1_2
 text - 2
 URA!URA!
+Изменения для коммита WCommit1_2
