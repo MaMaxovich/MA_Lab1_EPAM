@@ -2,4 +2,5 @@ File1
 text - 1
 URA!
 Изменения для коммитаWCommit1
+Ещё изменение для DCommit2
 Дтугок изменение со стороны  github.com для DCommit2
