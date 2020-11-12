@@ -1,3 +1,4 @@
 File1
 text - 1
 URA!
+Изменения для коммитаWCommit1
