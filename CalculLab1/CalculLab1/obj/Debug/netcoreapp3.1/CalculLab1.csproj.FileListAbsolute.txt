@@ -1,0 +1,13 @@
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\bin\Debug\netcoreapp3.1\CalculLab1.exe
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\bin\Debug\netcoreapp3.1\CalculLab1.deps.json
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\bin\Debug\netcoreapp3.1\CalculLab1.runtimeconfig.json
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\bin\Debug\netcoreapp3.1\CalculLab1.runtimeconfig.dev.json
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\bin\Debug\netcoreapp3.1\CalculLab1.dll
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\bin\Debug\netcoreapp3.1\CalculLab1.pdb
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\obj\Debug\netcoreapp3.1\CalculLab1.csprojAssemblyReference.cache
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\obj\Debug\netcoreapp3.1\CalculLab1.AssemblyInfoInputs.cache
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\obj\Debug\netcoreapp3.1\CalculLab1.AssemblyInfo.cs
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\obj\Debug\netcoreapp3.1\CalculLab1.csproj.CoreCompileInputs.cache
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\obj\Debug\netcoreapp3.1\CalculLab1.dll
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\obj\Debug\netcoreapp3.1\CalculLab1.pdb
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab1\obj\Debug\netcoreapp3.1\CalculLab1.genruntimeconfig.cache

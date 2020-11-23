@@ -1,0 +1,13 @@
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\obj\Debug\netcoreapp3.1\CalculLab3.csprojAssemblyReference.cache
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\obj\Debug\netcoreapp3.1\CalculLab3.AssemblyInfoInputs.cache
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\obj\Debug\netcoreapp3.1\CalculLab3.AssemblyInfo.cs
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\obj\Debug\netcoreapp3.1\CalculLab3.csproj.CoreCompileInputs.cache
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\bin\Debug\netcoreapp3.1\CalculLab3.exe
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\bin\Debug\netcoreapp3.1\CalculLab3.deps.json
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\bin\Debug\netcoreapp3.1\CalculLab3.runtimeconfig.json
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\bin\Debug\netcoreapp3.1\CalculLab3.runtimeconfig.dev.json
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\bin\Debug\netcoreapp3.1\CalculLab3.dll
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\bin\Debug\netcoreapp3.1\CalculLab3.pdb
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\obj\Debug\netcoreapp3.1\CalculLab3.dll
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\obj\Debug\netcoreapp3.1\CalculLab3.pdb
+C:\Users\makap\REP\CalculLab PR1\CalculLab1\CalculLab3\obj\Debug\netcoreapp3.1\CalculLab3.genruntimeconfig.cache
