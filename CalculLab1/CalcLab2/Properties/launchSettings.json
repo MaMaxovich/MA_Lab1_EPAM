@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CalcLab2": {
+      "commandName": "Project",
+      "commandLineArgs": "2 3 ЗДГЫ"
+    }
+  }
+}
