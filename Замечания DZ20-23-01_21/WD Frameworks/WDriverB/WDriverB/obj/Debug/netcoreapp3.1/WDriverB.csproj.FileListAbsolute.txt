@@ -1,0 +1,399 @@
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csprojAssemblyReference.cache
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfoInputs.cache
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfo.cs
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CoreCompileInputs.cache
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.deps.json
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.json
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.dev.json
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\testhost.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CopyComplete
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.genruntimeconfig.cache
+C:\EP\ДЗ20\WD_C#\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.deps.json
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.json
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.dev.json
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\testhost.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csprojAssemblyReference.cache
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfoInputs.cache
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfo.cs
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CoreCompileInputs.cache
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CopyComplete
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\ДЗ20\WD Advanced\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.genruntimeconfig.cache
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csprojAssemblyReference.cache
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfoInputs.cache
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfo.cs
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CoreCompileInputs.cache
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.deps.json
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.json
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.dev.json
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\testhost.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CopyComplete
+C:\EP\ДЗ22\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.genruntimeconfig.cache
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.deps.json
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.json
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.runtimeconfig.dev.json
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.PageObjects.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\SeleniumExtras.WaitHelpers.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\testhost.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfoInputs.cache
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.AssemblyInfo.cs
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CoreCompileInputs.cache
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.csproj.CopyComplete
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.dll
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.pdb
+C:\EP\Замечания DZ20-23\WD Frameworks\WDriverB\WDriverB\obj\Debug\netcoreapp3.1\WDriverB.genruntimeconfig.cache
